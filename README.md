@@ -18,16 +18,25 @@ Bringing growth strategies, automation and clean code together.
 ---
 
 ### 🛠️ Tech Stack & Tools
+<div align="center">
 
-![Next JS](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![n8n](https://img.shields.io/badge/-n8n-orange?style=flat&logo=n8n)
-![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://img.shields.io/badge/-n8n-orange?style=flat&logo=n8n" height="30"/>
+<img src="https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup" height="30"/>
+<img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion" height="30"/>
 
+</div>
+
+### 🌍 Connect with me
+
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://agenciacontrast.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandez-mkt/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandez.mkt/)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandez@agenciacontrast.com.br)
