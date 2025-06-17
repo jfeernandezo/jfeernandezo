@@ -27,16 +27,13 @@ Bringing growth strategies, automation and clean code together.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 <img src="https://img.shields.io/badge/-n8n-orange?style=flat&logo=n8n" height="30"/>
 <img src="https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup" height="30"/>
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion" height="30"/>
 
 </div>
 
-### 🌍 Connect with me
-
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://agenciacontrast.com.br)
+[![CONTRAST](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://agenciacontrast.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandez-mkt/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandez.mkt/)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandez@agenciacontrast.com.br)
