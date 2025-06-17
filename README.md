@@ -17,8 +17,6 @@ Bringing growth strategies, automation and clean code together.
 
 ---
 
-### 🧰 Tools & Languages
-
 ### 🛠️ Tech Stack & Tools
 
 ![Next JS](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
@@ -32,17 +30,4 @@ Bringing growth strategies, automation and clean code together.
 ![n8n](https://img.shields.io/badge/-n8n-orange?style=flat&logo=n8n)
 ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
-
-
-### 📌 Featured Projects
-
-| Project | Description |
-|-------- | ----------- |
-| [nextjs-landing-pages](https://github.com/jfeernandezo/nextjs-landing-pages) | Collection of high-conversion landing pages built with Next.js |
-| [n8n-automations](https://github.com/jfeernandezo/n8n-automations) | Custom automations for marketing and CRM workflows |
-| [clickup-api-integration](https://github.com/jfeernandezo/clickup-api-integration) | API tests and workflows integrating ClickUp with external tools |
-| [contrast-internal-tools](https://github.com/jfeernandezo/contrast-internal-tools) | Automation scripts for internal agency operations |
-| [ai-agents-for-marketing](https://github.com/jfeernandezo/ai-agents-for-marketing) | AI Agents built to execute marketing tasks |
-| [contrast-web-boilerplates](https://github.com/jfeernandezo/contrast-web-boilerplates) | Boilerplates and code snippets used in client projects |
-
 
