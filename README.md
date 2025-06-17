@@ -19,14 +19,18 @@ Bringing growth strategies, automation and clean code together.
 
 ### 🧰 Tools & Languages
 
-![Next JS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![n8n](https://img.shields.io/badge/-n8n-orange?style=flat-square&logo=n8n)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
-![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+<div align="center">
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+<img src="https://img.shields.io/badge/n8n-orange?logo=n8n&style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&style=for-the-badge" height="30"/>
+
+</div>
 
 ### 📌 Featured Projects
 
@@ -39,11 +43,4 @@ Bringing growth strategies, automation and clean code together.
 | [ai-agents-for-marketing](https://github.com/jfeernandezo/ai-agents-for-marketing) | AI Agents built to execute marketing tasks |
 | [contrast-web-boilerplates](https://github.com/jfeernandezo/contrast-web-boilerplates) | Boilerplates and code snippets used in client projects |
 
----
-
-### 🌐 Connect with me
-
-[🌍 Website](https://agenciacontrast.com.br) • [💼 LinkedIn](https://www.linkedin.com/in/fernandez-mkt/)
-
----
 
